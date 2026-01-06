@@ -1,7 +1,5 @@
-package org.hr.lld;
+package org.hr.lld.logger;
 
-import org.hr.lld.logger.LogConfiguration;
-import org.hr.lld.logger.Logger;
 import org.hr.lld.logger.appender.ConsoleAppender;
 import org.hr.lld.logger.formatter.TextFormatter;
 import org.hr.lld.logger.models.LogLevel;
